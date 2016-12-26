@@ -26,7 +26,7 @@ Determined, I like to continue working until a goal is achieved and when faced w
 
 In terms of programming, this means I research thoroughly when stuck on a problem. I google repeatedly before asking on a forum or chatroom to ask for help. If this doesn't work, I ask my colleagues or mentors and then ensure that I note down the answer before moving on. 
 
-## Mentoring
+#### Mentoring
 
 I believe this ties in all of my other skills together and allows me to help others as well as myself in understanding concepts and ideas. Pair programming for 12 weeks has led me to the stage where I now feel comfortable helping others who are at the beginning of their software development journey. Teaching English in Cairo, supervising other waiters at Manchester United and motivating my team to hit sales targets at Union Income Benefit have all contributed to me mastering this very important skill.
 
@@ -51,11 +51,13 @@ I believe this ties in all of my other skills together and allows me to help oth
 #### Manchester University (September 2009 to July 2013)
 
 - Business & Management with Arabic
+
 *- Year Abroad in Cairo, Egypt at the Arab Academy*
 
 #### Manchester University (September 2008 to July 2009)
 
 - Computer Science
+
 *- Learnt C++ and basic computer science theory*
 *- Changed Degree*
 
