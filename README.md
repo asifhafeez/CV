@@ -16,15 +16,20 @@ After 16 weeks of pair programming, I understand how this is the number one tran
 
 #### Passionate Learner
 
-I taught English in Egypt and the children I was teaching inspired me to learn how to code. Their enthusiasm to discover English helped me realise that I could learn anything if I put my mind to it.
-
-While grappling with HTML and CSS part time, I found myself positively impassioned. This led me to invest in my learning and apply to Makers Academy. 
+I taught English in Egypt and the children I was teaching inspired me to learn how to code. Their enthusiasm to discover English helped me realise that I could learn anything if I put my mind to it. While grappling with HTML and CSS part time, I found myself positively impassioned. This led me to invest in my learning and apply to Makers Academy. 
 
 At Makers Academy, I embraced the new intense learning environment with tenacity and realised my lust for learning. For my final project, I worked alongside my team to learn Java and build a fully functioning Amazon Alexa Skill. Java was chosen because  I wanted to learn something completely different from the course syllabus which mainly focuses on Ruby and Javascript.
 
-#### Persistent
+#### Persistent Problem Solver
 
-When faced with a problem, I hack away at it until I figure out a solution. Determined, I like to continue working until a goal is achieved. I also motivate my colleagues to do the same. This led me to win multiple "salesperson of the month" awards during my time at Union Income Benefit. 
+Determined, I like to continue working until a goal is achieved and when faced with a problem, I hack away at it until I figure out a solution. I also motivate my colleagues to do the same. This led to multiple "Salesperson of the Month" awards during my time at Union Income Benefit. 
+
+In terms of programming, this means I research thoroughly when stuck on a problem. I google repeatedly before asking on a forum or chatroom to ask for help. If this doesn't work, I ask my colleagues or mentors and then ensure that I note down the answer before moving on. 
+
+## Mentoring
+
+I believe this ties in all of my other skills together and allows me to help others as well as myself in understanding concepts and ideas. Pair programming for 12 weeks has led me to the stage where I now feel comfortable helping others who are at the beginning of their software development journey. Teaching English in Cairo, supervising other waiters at Manchester United and motivating my team to hit sales targets at Union Income Benefit have all contributed to me mastering this very important skill.
+
 
 ## Projects
 
