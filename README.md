@@ -1,44 +1,52 @@
 ## Asif Hafeez
 
-I'm a salesperson turned codeperson/elite hacker. A graduate of Manchester University and traveller of the world, I've worked in a variety of jobs, most of which have been customer facing and sales based. After graduating from Makers Academy, I'm hoping to further my dip in the coding world by diving straight into a new job, writing some good clean tested code, picking up a few new programming languages, working in an agile team which loves pair programming and solving problems in innovative and creative ways.
+Problem solver, curious learner, elite hacker and happy soul. People have called me a number of things over the years. In essence, I am a Full Stack Software Develeper and recent graduate of Makers Academy, Europe's leading developer bootcamp. 
 
+In a previous life, I went to Manchester university, travelled to exotic new lands and sold life insurance (not so exotic). After making the decision to become a programmer, I expected the move from customer facing sales to junior developer to be difficult. However, by combining my technical skills with my other transferable abilities, I have managed to turn myself into a fantastic knowledge worker.
+
+I'm looking to work for a company which will allow me to write some good clean tested code, pick up a few new programming languages, work in an agile team and solve problems in innovative and creative ways.
 
 ## Skills
 
 #### Able communicator
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+After 16 weeks of pair programming, I understand how this is the number one transferable skill to have for a developer. 
 
-- Experience
-- Achievements
-- Evidence
+3 years of experience in insurance sales has propelled my ability to communicate. I mastered the ability to deal with customers by converting long confusing insurance policy documents into easy to understand spiels. I spoke to over 15 different clients a day and developed a certain way of articulating my thoughts that makes it easier for people to digest what I am saying and allows them to respond honestly. 
 
-#### Analytical problem-solver
+#### Passionate Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I taught English in Egypt and the children I was teaching inspired me to learn how to code. Their enthusiasm to discover English helped me realise that I could learn anything if I put my mind to it.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+While grappling with HTML and CSS part time, I found myself positively impassioned. This led me to invest in my learning and apply to Makers Academy. 
 
-#### Quick and curious learner
+At Makers Academy, I embraced the new intense learning environment with tenacity and realised my lust for learning. For my final project, I worked alongside my team to learn Java and build a fully functioning Amazon Alexa Skill. Java was chosen because  I wanted to learn something completely different from the course syllabus which mainly focuses on Ruby and Javascript.
 
+#### Persistent
+
+When faced with a problem, I hack away at it until I figure out a solution. Determined, I like to continue working until a goal is achieved. I also motivate my colleagues to do the same. This led me to win multiple "salesperson of the month" awards during my time at Union Income Benefit. 
+
+## Projects
+
+|Project|Description|Timeframe|Technologies|Testing|
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 ## Education
 
 #### Makers Academy (September 2016 to December 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- 10% acceptance rate
+- 12 week program
+- Focused on OOP, TDD, SOLID, MVC, DDD and Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js, React.js, Java
+- Rspec, Jasmine, Mocha, Jest, JUnit 
 
 #### Manchester University (September 2009 to July 2013)
 
 - Business & Management with Arabic 
-- 2.2
+- Year Abroad in Cairo, Egypt at the Arab Academy
 
 #### Manchester University (September 2008 to July 2009)
 
@@ -53,7 +61,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - GCSE's
 - 5 A's, 3 B's, 3 C's
 
-#### Any other qualifications
+#### Other Qualifications
+
+- TEFL Award - The TEFL Academy (2015)
 
 ## Experience
 
@@ -69,3 +79,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Manchester United F.C** (September 2009 to July 2013)    
 **Waiter**  
 
+## Interests
+
+Apart from being a massive football fan and movie fanatic, I also hosted an award winning radio show which can be found [here](https://www.mixcloud.com/thedelorean/).
