@@ -50,14 +50,14 @@ I believe this ties in all of my other skills together and allows me to help oth
 
 #### Manchester University (September 2009 to July 2013)
 
-*- Business & Management with Arabic* 
-- Year Abroad in Cairo, Egypt at the Arab Academy
+- Business & Management with Arabic
+*- Year Abroad in Cairo, Egypt at the Arab Academy*
 
 #### Manchester University (September 2008 to July 2009)
 
-*- Computer Science*
-- Learnt C++ and basic computer science theory
-- Changed Degree
+- Computer Science
+*- Learnt C++ and basic computer science theory*
+*- Changed Degree*
 
 #### Seven Kings High School (September 2001 to August 2008)
 
@@ -73,17 +73,21 @@ I believe this ties in all of my other skills together and allows me to help oth
 ## Experience
 
 **CCA International** (June 2016 to August 2016)
+
 *Sales Agent*
 
 **Union Income Benefit** (June 2015 to April 2016) & (September 2013 to January 2015) 
+
 *Family Protection Consultant*  
 
 **Nile Academy** (January 2015 to April 2015) 
+
 *English Teacher* 
 
 **Manchester United F.C** (September 2009 to July 2013)    
+
 *Waiter*  
 
 ## Interests
 
-Apart from being a massive football fan and movie fanatic, I also hosted an award winning radio show which can be found [here](https://www.mixcloud.com/thedelorean/).
+Apart from being a massive football fan and movie fanatic, I also hosted an award winning radio show which can be found *[here](https://www.mixcloud.com/thedelorean/)*.
