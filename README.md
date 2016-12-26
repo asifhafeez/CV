@@ -50,21 +50,21 @@ I believe this ties in all of my other skills together and allows me to help oth
 
 #### Manchester University (September 2009 to July 2013)
 
-- Business & Management with Arabic 
+*- Business & Management with Arabic* 
 - Year Abroad in Cairo, Egypt at the Arab Academy
 
 #### Manchester University (September 2008 to July 2009)
 
-- Computer Science
+*- Computer Science*
 - Learnt C++ and basic computer science theory
 - Changed Degree
 
-#### Manchester University (September 2001 to August 2008)
+#### Seven Kings High School (September 2001 to August 2008)
 
 - A Levels
-- History (B), Politics (B), Economics (B), Maths AS-Level(C)
+*- History (B), Politics (B), Economics (B), Maths AS-Level(C)*
 - GCSE's
-- 5 A's, 3 B's, 3 C's
+*- 5 A's, 3 B's, 3 C's*
 
 #### Other Qualifications
 
@@ -82,7 +82,7 @@ I believe this ties in all of my other skills together and allows me to help oth
 *English Teacher* 
 
 **Manchester United F.C** (September 2009 to July 2013)    
-**Waiter**  
+*Waiter*  
 
 ## Interests
 
