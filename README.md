@@ -1,10 +1,11 @@
-## Asif Hafeez
-
+# Asif Hafeez
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Portfolio](https://asifhafeez.github.io/) | [LinkedIn](https://uk.linkedin.com/in/asif-hafeez-361612135)
+## Profile
 Problem solver, curious learner, elite hacker and happy soul. People have called me a number of things over the years. In essence, I am a Full Stack Software Develeper and recent graduate of Makers Academy, Europe's leading developer bootcamp. 
 
 In a previous life, I went to Manchester university, travelled to exotic new lands and sold life insurance (not so exotic). After making the decision to become a programmer, I expected the move from customer facing sales to junior developer to be difficult. However, by combining my technical skills with my other transferable abilities, I have managed to turn myself into a fantastic knowledge worker.
 
-I'm looking to work for a company which will allow me to write some good clean tested code, pick up a few new programming languages, work in an agile team and solve problems in innovative and creative ways.
+I'm looking to work for a company which will allow me to write some good clean tested code, work in an agile team and solve problems using innovative and creative methods.
 
 ## Skills
 
@@ -26,18 +27,20 @@ Determined, I like to continue working until a goal is achieved and when faced w
 
 In terms of programming, this means I research thoroughly when stuck on a problem. I google repeatedly before asking on a forum or chatroom to ask for help. If this doesn't work, I ask my colleagues or mentors and then ensure that I note down the answer before moving on. 
 
-#### Mentoring
+#### Caring Mentor
 
-I believe this ties in all of my other skills together and allows me to help others as well as myself in understanding concepts and ideas. Pair programming for 12 weeks has led me to the stage where I now feel comfortable helping others who are at the beginning of their software development journey. Teaching English in Cairo, supervising other waiters at Manchester United and motivating my team to hit sales targets at Union Income Benefit have all contributed to me mastering this very important skill.
+I believe this ties in all of my other skills together and allows me to help others as well as myself in understanding concepts and ideas. Pair programming for 12 weeks at Makers Academy has led me to the stage where I now feel comfortable helping others who are at the beginning of their software development journey. Teaching English in Cairo, supervising other waiters at Manchester United and motivating my team to hit sales targets at Union Income Benefit have all contributed to me mastering this very important skill.
 
 
 ## Projects
-
+**See my full portfolio** ***[here](https://asifhafeez.github.io)***
+ 
 |Project|Description|Timeframe|Technologies|Testing|
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|[triviaSmack](https://github.com/asifhafeez/triviaSMACK)|A Multiplayer Pub Quiz for the Amazon Alexa voice software|10 days| Java, AWS Lambda, Alexa Skills Kit |  JUnit |
+|[Do Life](https://github.com/asifhafeez/task-manager)|A Task Manager |5 days| ReactJS, NodeJS, Express, Sequelize, PostgreSQL|Jest|
+|[Kelp](https://github.com/asifhafeez/kelp)|A Yelp clone specialising in Sea Food|5 days   | Ruby on Rails, HAML, Bootstrap, CSS   |RSpec/Capybara   |
+
 ## Education
 
 #### Makers Academy (September 2016 to December 2016)
@@ -45,28 +48,27 @@ I believe this ties in all of my other skills together and allows me to help oth
 - 10% acceptance rate
 - 12 week program
 - Focused on OOP, TDD, SOLID, MVC, DDD and Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, React.js, Java
+- Ruby, Javascript, Java, Rails, Node.js, React.js,
 - Rspec, Jasmine, Mocha, Jest, JUnit 
 
 #### Manchester University (September 2009 to July 2013)
 
-- Business & Management with Arabic
-
-*- Year Abroad in Cairo, Egypt at the Arab Academy*
+- Business & Management with Arabic  
+*2nd Class Honours*  
+*Year Abroad studying at The Arab Academy in Cairo, Egypt*
 
 #### Manchester University (September 2008 to July 2009)
 
-- Computer Science
-
-*- Learnt C++ and basic computer science theory*
-*- Changed Degree*
+- Computer Science  
+*Learnt C++ and basic computer science theory*  
+*Changed Degree*
 
 #### Seven Kings High School (September 2001 to August 2008)
 
-- A Levels
-*- History (B), Politics (B), Economics (B), Maths AS-Level(C)*
-- GCSE's
-*- 5 A's, 3 B's, 3 C's*
+- A Levels  
+*History (B), Politics (B), Economics (B), Maths AS-Level(C)*
+- GCSE's  
+*5 A's, 3 B's, 3 C's*
 
 #### Other Qualifications
 
@@ -74,22 +76,19 @@ I believe this ties in all of my other skills together and allows me to help oth
 
 ## Experience
 
-**CCA International** (June 2016 to August 2016)
-
+**CCA International** (June 2016 to August 2016)  
 *Sales Agent*
 
-**Union Income Benefit** (June 2015 to April 2016) & (September 2013 to January 2015) 
-
+**Union Income Benefit** (June 2015 to April 2016) & (September 2013 to January 2015)  
 *Family Protection Consultant*  
 
-**Nile Academy** (January 2015 to April 2015) 
-
+**Nile Academy** (January 2015 to April 2015)  
 *English Teacher* 
 
-**Manchester United F.C** (September 2009 to July 2013)    
 
-*Waiter*  
+**Manchester United F.C** (September 2009 to July 2013)  
+*Waiter*
 
 ## Interests
 
-Apart from being a massive football fan and movie fanatic, I also hosted an award winning radio show which can be found *[here](https://www.mixcloud.com/thedelorean/)*.
+Apart from being a massive football fan and movie fanatic, I also hosted an award winning radio show which can be found ***[here](https://www.mixcloud.com/thedelorean/)***.
