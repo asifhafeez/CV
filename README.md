@@ -9,7 +9,7 @@ I'm looking to work for a company which will allow me to write some good clean t
 
 ## Skills
 
-#### Able communicator
+#### Effective Communicator
 
 After 16 weeks of pair programming, I understand how this is the number one transferable skill to have for a developer. 
 
