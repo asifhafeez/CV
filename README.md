@@ -96,4 +96,4 @@ I believe this ties in all of my other skills together and allows me to help oth
 
 ## Interests
 
-Apart from being a massive football fan and movie fanatic, I also hosted an award winning radio show which can be found ***[here](https://www.mixcloud.com/thedelorean/)***.
+Apart from being a massive football fan and movie fanatic, I also hosted an award winning radio show which can be found **[here](https://www.mixcloud.com/thedelorean/)**.
