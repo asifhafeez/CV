@@ -54,7 +54,7 @@ I believe this ties in all of my other skills together and allows me to help oth
 **See my personal portfolio** ***[here](https://asifhafeez.github.io)***
  
 |Project|Description|Timeframe|Technologies|
-|---|---|---|---|---|
+|---|---|---|---|
 |[HushKeys](https://www.hushkeys.com/)|A social media website built for a startup company|4 months (ongoing)|Typescript, ReactJS, Redux, Jest|
 |[Channel 5 JWPlayer](http://www.channel5.com/)|Creating a new video player for the Channel 5 website |2 weeks| Javascript, CSS |  N/A |
 |[Google Deepmind]()|Python scripts for bulk converting image files |1 month| Python|
