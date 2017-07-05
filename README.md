@@ -38,6 +38,11 @@ I believe this ties in all of my other skills together and allows me to help oth
 
 **Softwire** (January 2017 to Present)  
 *Software Developer*
+- Wrote well written, clean code with attention to detail on every single line submitted, whilst sticking to strict deadlines.
+- Co-operated with other team members using agile methodologies to ensure the needs of each client were realised and surpassed.
+- Submitted work using a strict workflow using project management tools such as Crucible and JIRA, as well as version control repository services such as GitHub and GitLab.
+- Worked on a number of different projects, including clients such as BBC, Channel 5, HushKeys and Google Deepmind (more information in the table below)
+- Used a number of different programming languages including C#, Javascript and Python.
 
 
 **Union Income Benefit** (June 2015 to April 2016) & (September 2013 to January 2015)  
