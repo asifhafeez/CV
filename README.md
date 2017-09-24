@@ -1,7 +1,7 @@
 # Asif Hafeez
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Portfolio](https://asifhafeez.github.io/) | [LinkedIn](https://uk.linkedin.com/in/asif-hafeez-361612135)
 ## Profile
-Problem solver, curious learner, elite hacker and happy soul. People have called me a number of things over the years. In essence, I am a Full Stack Software Developer currently at Softwire and graduate of Makers Academy, Europe's leading developer bootcamp. 
+Problem solver, curious learner, elite hacker and happy soul. People have called me a number of things over the years. In essence, I am a Full Stack Software Developer and worked as a **Software Consultant at Softwire**. I am also a **graduate of Makers Academy**, Europe's leading developer bootcamp. 
 
 In a previous life, I went to Manchester university, travelled to exotic new lands and sold life insurance (not so exotic). After making the decision to become a programmer, I expected the move from customer facing sales to junior developer to be difficult. However, by combining my technical skills with my other transferable abilities, I have managed to turn myself into a fantastic knowledge worker.
 
@@ -10,7 +10,6 @@ I'm looking to work for a company which will allow me to write some good clean t
 ## Skills
 
 #### Able communicator
-
 
 3 years of experience in insurance sales has propelled my ability to communicate. I mastered the ability to deal with customers by converting long confusing insurance policy documents into easy to understand spiels. I spoke to over 15 different clients a day and developed a certain way of articulating my thoughts that makes it easier for people to digest what I am saying and allows them to respond honestly. 
 
@@ -36,7 +35,7 @@ I believe this ties in all of my other skills together and allows me to help oth
 
 ## Experience
 
-**Softwire** (January 2017 to Present)  
+**Softwire** (January 2017 to September 2017)  
 *Software Developer*
 - Wrote well written, clean code with attention to detail on every single line submitted, whilst sticking to strict deadlines.
 - Co-operated with other team members using agile methodologies to ensure the needs of each client were realised and surpassed.
