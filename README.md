@@ -39,7 +39,7 @@ I believe this ties in all of my other skills together and allows me to help oth
 **ECS-Digital** (October 2017 to Present)
 
 *QA, DevOps & Continuous Delivery Consultant*
-- Currently working for BP as a Senior Developer in Test for a small agile project
+- Currently working for BP as a Senior Developer in Test for a small agile project. 
 - Worked on The Times website and mobile applications on the "Tools" Team. This team was designed to help facilitate the developers by providing testing and devops tooling for their development pipeline. 
 - Helped develop a number of different testing tools including [AyeSpy - A Visual Regression Testing Tool](https://github.com/newsuk/AyeSpy) and Release CLI tool for releaseing via Github Releases.
 - Used a number of different testing tools including KarmaJS, Jasmine, Jest, MochaJS, XUnit, Protractor, WebdriverIO, Selenium Grid, Taurus (load testing) and Espresso.
