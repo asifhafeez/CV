@@ -73,7 +73,9 @@ I believe this ties in all of my other skills together and allows me to help oth
  
 |Project|Description|Timeframe|Technologies|
 |---|---|---|---|
-|[HushKeys](https://www.hushkeys.com/)|A social media website built for a startup company|4 months (ongoing)|Typescript, ReactJS, Redux, Jest|
+|[BP](https://www.bp.com/)|Internal Tool|2 months (ongoing)|Typescript, Angular, C#, .NET Core, Karma, Protractor, XUnit, RestSharp|
+|[The Times](https://www.thetimes.co.uk/)|The "Tools" Team - QA and Delivery Pipeline Improvement Team|1 year|Javascript, React, Kotlin Bash, Terraform, AWS, Mocha, Espresso, WebdriverIO|
+|[HushKeys](https://www.hushkeys.com/)|A social media website built for a startup company|5 months|Typescript, ReactJS, Redux, Jest|
 |[Channel 5 JWPlayer](http://www.channel5.com/)|Creating a new video player for the Channel 5 website |2 weeks| Javascript, CSS |  N/A |
 |[Google Deepmind]()|Python scripts for bulk converting image files |1 month| Python|
 |[BBC](https://www.bbc.com)|Rewrote a small desktop application for Softwire project managers to keep track of project progression and costs|2 weeks|Javascript, Electron|
