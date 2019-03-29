@@ -1,7 +1,7 @@
 # Asif Hafeez
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Portfolio](https://asifhafeez.github.io/) | [LinkedIn](https://uk.linkedin.com/in/asif-hafeez-361612135)
 ## Profile
-Problem solver, curious learner, elite hacker and happy soul. People have called me a number of things over the years. In essence, I am a Full Stack Software Developer and worked as a **Software Consultant at Softwire**. I am also a **graduate of Makers Academy**, Europe's leading developer bootcamp. 
+Problem solver, curious learner, elite hacker and happy soul. People have called me a number of things over the years. In essence, I am a **[QA & Continuous Integration Engineer at ECS-Digital](https://ecs-digital.co.uk/)**. I have previously worked as a **[Software Consultant at Softwire](https://www.softwire.com/)**. I am also a **[graduate of Makers Academy](https://makers.tech/)**, Europe's leading developer bootcamp. 
 
 In a previous life, I went to Manchester university, travelled to exotic new lands and sold life insurance (not so exotic). After making the decision to become a programmer, I expected the move from customer facing sales to junior developer to be difficult. However, by combining my technical skills with my other transferable abilities, I have managed to turn myself into a fantastic knowledge worker.
 
@@ -34,6 +34,15 @@ In terms of programming, this means I research thoroughly when stuck on a proble
 I believe this ties in all of my other skills together and allows me to help others as well as myself in understanding concepts and ideas. Pair programming for 12 weeks at Makers Academy has led me to the stage where I now feel comfortable helping others who are at the beginning of their software development journey. Teaching English in Cairo, supervising other waiters at Manchester United and motivating my team to hit sales targets at Union Income Benefit have all contributed to me mastering this very important skill.
 
 ## Experience
+
+**ECS-Digital** (October 2017 to Present)
+*QA & Continuous Integration*
+- Currently working for BP as a Senior Developer in Test for a small agile project
+- Worked on The Times website and mobile applications on the "Tools" Team. This team was designed to help facilitate the developers by providing testing and devops tooling for their development pipeline. 
+- Helped develop a number of different testing tools including [AyeSpy - A Visual Regression Testing Tool](https://github.com/newsuk/AyeSpy) and Release CLI tool for releaseing via Github Releases.
+- Used a number of different testing tools including KarmaJS, Jasmine, Jest, MochaJS, XUnit, Protractor, WebdriverIO, Selenium Grid, Taurus (load testing) and Espresso.
+- Used a number of different DevOps tools including AWS, Terraform, Docker, Kubernetes, Jenkins, Teamcity, Bitrise, Buddybuild, Azure DevOps, New Relic and DataDog.
+- Used a number of different programming languages and frameworks, including Javascript, Typescript, Kotlin, C#, AngularJS, NodeJS .NET Core,  ReactJS, Bash AND Groovy.
 
 **Softwire** (January 2017 to September 2017)  
 *Software Developer*
