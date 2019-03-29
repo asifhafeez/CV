@@ -47,6 +47,7 @@ I believe this ties in all of my other skills together and allows me to help oth
 - Used a number of different programming languages and frameworks, including Javascript, Typescript, Kotlin, C#, AngularJS, NodeJS .NET Core,  ReactJS, Bash AND Groovy.
 
 **Softwire** (January 2017 to September 2017)  
+
 *Software Developer*
 - Worked on a number of different projects, including clients such as BBC, Channel 5, HushKeys and Google Deepmind.
 - Wrote well written, clean code with attention to detail on every single line submitted, whilst sticking to strict deadlines.
@@ -55,13 +56,16 @@ I believe this ties in all of my other skills together and allows me to help oth
 - Used a number of different programming languages and frameworks including Typescript, ReactJS, Python and C#.
 
 **Union Income Benefit** (June 2015 to April 2016) & (September 2013 to January 2015)  
+
 *Family Protection Consultant*  
 
 **Nile Academy** (January 2015 to April 2015)  
+
 *English Teacher* 
 
 
 **Manchester United F.C** (September 2009 to July 2013)  
+
 *Waiter*
 
 ## Projects
