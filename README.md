@@ -35,7 +35,9 @@ I believe this ties in all of my other skills together and allows me to help oth
 
 ## Experience
 
+
 **ECS-Digital** (October 2017 to Present)
+
 *QA, DevOps & Continuous Delivery Consultant*
 - Currently working for BP as a Senior Developer in Test for a small agile project
 - Worked on The Times website and mobile applications on the "Tools" Team. This team was designed to help facilitate the developers by providing testing and devops tooling for their development pipeline. 
